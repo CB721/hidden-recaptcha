@@ -11,7 +11,10 @@
     "url": "git+https://github.com/CB721/hidden-recaptcha.git"
   },
   "keywords": [],
-  "author": "clint brodar <clintbrodar@gmail.com>",
+  "contributors": [
+    "matt smith <matt@nearapogge.com>",
+    "clint brodar <clintbrodar@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CB721/hidden-recaptcha/issues"
